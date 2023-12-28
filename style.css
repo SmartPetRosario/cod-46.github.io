@@ -160,11 +160,11 @@ h6 {
   margin: 10px;
   display: flex;
   justify-content: center;
-  gap: 12px;
+  gap: 2.4em;
 }
 .footer-iconos {
-  width: 18px;
-  height: 18px;
+  width: 1.8em;
+  height: 1.8em;
   color: #6c5c94;
 }
 
@@ -196,34 +196,19 @@ small{
 }
 
 .primerUso{
- 
+  height: 300px;
   width: 100%;
-  padding: 15%;
-  margin: 0 auto;
-
-
-}
-
-.tituloNuevo-texto{
-  color: #cd7fa7;
-  margin: 15px;
 }
 
 
-.h1-nuevo{
-  margin-bottom: 30px;
-  text-align: center;
-  
+
+.btnregister{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
 }
 
-.h3-nuevo{
-font-size: medium;
-}
-
-.btn{
-  background-color: #6c5c94;
-  color: #fff;
-  margin: 15px;
-
-  
+.button-datos{
+  width: 8em;
+  height: 3em;
 }
